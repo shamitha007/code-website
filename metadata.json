@@ -1,0 +1,6 @@
+{
+  "name": "Vehicle Claim Damage Assessor",
+  "description": "An automated vehicle insurance and warranty claim damage assessor powered by Gemini. Analyzes vehicle damage images, estimates repair costs, detects fraud risk, and provides interactive API integration utilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
